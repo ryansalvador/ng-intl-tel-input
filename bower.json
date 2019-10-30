@@ -1,6 +1,6 @@
 {
   "name": "ng-intl-tel-input",
-  "version": "2.0.2",
+  "version": "2.0.1",
   "homepage": "https://github.com/hodgepodgers/ng-intl-tel-input",
   "authors": [
     "bighappyface <anomalous20@gmail.com>"
@@ -26,7 +26,7 @@
     "tests"
   ],
   "dependencies": {
-    "intl-tel-input": "16.0.2"
+    "intl-tel-input": "12.1.13"
   },
   "devDependencies": {
     "angularjs": "^1.6.7",
